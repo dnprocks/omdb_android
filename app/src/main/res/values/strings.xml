@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EstudoProva</string>
+    <string name="title">Título</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_not_found">Pesquisa não encontrada</string>
+    <string name="search_fail">Falha ao fazer pesquisa</string>
+    <string name="ops">Ops</string>
+    <string name="positive_ok">OK</string>
+</resources>
